@@ -1,0 +1,14 @@
+.gradle
+.idea
+/local.properties
+.DS_Store
+/build
+/captures
+*.iml
+/hongnicommon/build
+/app/build
+/outputapk
+/freeline
+/freeline_core
+/freeline.py
+/freeline_project_description.json
